@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "GPT3 - Abhishek",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -15,6 +15,11 @@
     {
       "src": "logo512.png",
       "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "logo.svg",
+      "type": "image/x-icon",
       "sizes": "512x512"
     }
   ],
